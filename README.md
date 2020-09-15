@@ -13,6 +13,6 @@ I create an app that will take in orders from customers and deplete stock from t
 
 ## See How it Works
 ![First image of application]
-("https://github.com/julinacodes/bamazon/blob/master/image1.png")
+("/bamazon/images/image1.png")
 ![Second image of application]
-("https://github.com/julinacodes/bamazon/blob/master/image2.png")
+("/bamazon/images/image2.png")
