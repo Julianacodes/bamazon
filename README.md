@@ -12,7 +12,5 @@ I create an app that will take in orders from customers and deplete stock from t
 - If there is not enough in stock the application will notify you and reoload the items for you to re-select. 
 
 ## See How it Works
-![First image of application]
-("https://julianacodes.github.io/bamazon/images/image1.png")
-![Second image of application]
-("https://julianacodes.github.io/bamazon/images/image2.png")
+ <img src="https://julianacodes.github.io/bamazon/images/image1.png"/>
+<img src="https://julianacodes.github.io/bamazon/images/image2.png"/>
